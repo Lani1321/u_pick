@@ -9,6 +9,8 @@ gem 'pg', '~> 0.18'
 
 gem 'pry'
 
+gem 'faraday'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.6'
 
